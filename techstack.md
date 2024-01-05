@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/note-track-app is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -41,11 +42,13 @@ swadhin1515/note-track-app is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/note-track-app is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -85,14 +88,15 @@ swadhin1515/note-track-app is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/note-track-app](https://github.com/swadhin1515/note-track-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|218<br/>Tools used|11/10/23 <br/>Report generated|
+|223<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -551,9 +555,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (166)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (171)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (166)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (171)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -588,6 +592,7 @@ Full tech stack [here](/techstack.md)
 |[brace-expansion](https://www.npmjs.com/brace-expansion)|v1.1.11|03/31/23|swadhin1515 |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[chai-subset](https://www.npmjs.com/chai-subset)|v1.6|03/31/23|swadhin1515 |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|03/31/23|swadhin1515 |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[co](https://www.npmjs.com/co)|N/A|03/31/23|swadhin1515 |MIT|N/A|
@@ -629,6 +634,7 @@ Full tech stack [here](/techstack.md)
 |[he](https://www.npmjs.com/he)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[http](https://www.npmjs.com/http)|N/A|03/31/23|swadhin1515 |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|03/31/23|swadhin1515 |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|03/31/23|swadhin1515 |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[ini](https://www.npmjs.com/ini)|N/A|03/31/23|swadhin1515 |ISC|N/A|
@@ -647,6 +653,7 @@ Full tech stack [here](/techstack.md)
 |[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|03/31/23|swadhin1515 |MIT|N/A|
 |[karma-phantomjs-launcher](https://www.npmjs.com/karma-phantomjs-launcher)|v1.0.2|03/31/23|swadhin1515 |MIT|N/A|
 |[kind-of](https://www.npmjs.com/kind-of)|N/A|03/31/23|swadhin1515 |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|03/31/23|swadhin1515 |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|03/31/23|swadhin1515 |ISC|N/A|
 |[matcha](https://www.npmjs.com/matcha)|v0.7.0|03/31/23|swadhin1515 |MIT|N/A|
 |[micro](https://www.npmjs.com/micro)|N/A|03/31/23|swadhin1515 |MIT|N/A|
@@ -688,6 +695,7 @@ Full tech stack [here](/techstack.md)
 |[resolve](https://www.npmjs.com/resolve)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|03/31/23|swadhin1515 |ISC|N/A|
 |[s3](https://www.npmjs.com/s3)|N/A|03/31/23|swadhin1515 |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v18.0.0|03/31/23|swadhin1515 |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[should](https://www.npmjs.com/should)|v4.0.0|03/31/23|swadhin1515 |MIT|N/A|
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v3.3.0|03/31/23|swadhin1515 |BSD-2-Clause,WTFPL|N/A|
 |[slash](https://www.npmjs.com/slash)|N/A|03/31/23|swadhin1515 |MIT|N/A|
@@ -703,6 +711,7 @@ Full tech stack [here](/techstack.md)
 |[tape](https://www.npmjs.com/tape)|v4.6.0|03/31/23|swadhin1515 |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|v6.1.13|03/31/23|swadhin1515 |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|03/31/23|swadhin1515 |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|03/31/23|swadhin1515 |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|v0.2.0|03/31/23|swadhin1515 |MIT|N/A|
 |[touch](https://www.npmjs.com/touch)|v3.1.0|03/31/23|swadhin1515 |ISC|N/A|
 |[tsd](https://www.npmjs.com/tsd)|v0.7.2|03/31/23|swadhin1515 |MIT|N/A|
@@ -727,4 +736,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
